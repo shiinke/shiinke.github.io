@@ -28,7 +28,7 @@ h1{ padding:35px 0 0 43px;}
 h2{ font-size:20px; color:#282828; line-height:1.2em; padding:20px 0 14px 0; letter-spacing:-1px; font-weight:400; margin-left:0px;}
 h2 strong{ font-weight:700; color:#181818;}
 h3{ font-size:30px; line-height:1.2em; color:#181818; padding:0 0 8px 0; font-weight:400; letter-spacing:-2px;}
-h4{ font-size:15px; color:#181818; line-height:1.2em; font-weight:400; letter-spacing: 0px; padding:12px 0 11px 0}
+h4{ font: Georgia; font-size:15px; color:#505050; line-height:1.2em; font-weight:400; letter-spacing: 0px; padding:12px 0 11px 0; font-weight:bold;}
 p{ padding-bottom:25px;}
 
 /* ============================= header ====================== */
@@ -81,15 +81,15 @@ header{ height:205px;}
 
 /* ============================= footer ====================== */
 
-footer { background: ccc; height:152px; color:#000; border-top: 1px solid #585858;}
-footer a{ color:#383838; text-decoration:none}
+footer { background: #202020; height:152px; color:#787878; border-top: 1px solid #585858;}
+footer a{ color:#787878; text-decoration:none}
 footer a:hover{ text-decoration:underline}
 
 .line1{ background:url(../images/line_vert1.gif) 260px 0 repeat-y; height:100%;}
 .line2{ background:url(../images/line_vert1.gif) 600px 0 repeat-y; height:100%}
 
 .padding {padding-left:15px;} /*отступы содержимого на странице*/
-.table {width:300px;}
+.table {width:200px;}
 .normaltip {padding-bottom:45px;}
 
 .icons{ float:left; width:230px; padding-left:70px}
@@ -97,7 +97,9 @@ footer a:hover{ text-decoration:underline}
 .lampsize {width:60px;}
 .info{ float:left; width:140px;}
 .phone{ width:215px; float:right; padding-right:70px;}
+.input1 { margin:0;width:40px; height:16px; background:#ccc; padding:7px 10px;color:#000; font:14px Arial, Helvetica, sans-serif;}
 
+.data {padding-right:30px}/*на заметку*/
 .phone span{  font-family: Comic Sans MC; font-size:30px; margin-top:-5px; text-transform:uppercase; display:block; line-height:1.2em; letter-spacing:-2px;}
 
 #icons{ padding: 8px 0 0 0; overflow:hidden;}
