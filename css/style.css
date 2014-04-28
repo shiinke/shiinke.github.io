@@ -32,7 +32,7 @@ h4{ font-size:15px; color:#181818; line-height:1.2em; font-weight:400; letter-sp
 p{ padding-bottom:25px;}
 
 /* ============================= header ====================== */
-header{ height:205px; }
+header{ height:205px;}
 #header {background: url(../images/bg_menu.png);}
 
 #logo{ display:block; text-indent:-9999px; background:url(../images/logo.png) 0 0 no-repeat; width:273px; height:86px;}
@@ -94,7 +94,7 @@ footer a:hover{ text-decoration:underline}
 
 .icons{ float:left; width:230px; padding-left:70px}
 .iconsize {width:25px;}
-.lampsize {width:50px;}
+.lampsize {width:60px;}
 .info{ float:left; width:140px;}
 .phone{ width:215px; float:right; padding-right:70px;}
 
